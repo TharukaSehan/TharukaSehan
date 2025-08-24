@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23310
-Fork on GitHub
-7904
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Tharuka Pathirana</h1>
 <h3 align="center">A fullstack developer from Sri Lanka</h3>
 
